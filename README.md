@@ -11,3 +11,5 @@ A custom algorithm (TFT*: Theta Fewer Turns) is developed to reduce the number o
 
 Sensor-Based Real-Time Guidance
 Using accelerometer and magnetometer data, the app provides step detection, heading correction (Kalman Filter), and personalized voice instructions based on the user’s walking speed and direction.
+
+NOTE: This project is a prototype created for learning purposes.
